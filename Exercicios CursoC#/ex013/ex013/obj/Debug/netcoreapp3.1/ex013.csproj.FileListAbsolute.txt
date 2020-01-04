@@ -1,0 +1,10 @@
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.exe
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.deps.json
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.runtimeconfig.json
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.runtimeconfig.dev.json
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.dll
+D:\CursoC#\ex013\ex013\bin\Debug\netcoreapp3.1\ex013.pdb
+D:\CursoC#\ex013\ex013\obj\Debug\netcoreapp3.1\ex013.AssemblyInfoInputs.cache
+D:\CursoC#\ex013\ex013\obj\Debug\netcoreapp3.1\ex013.AssemblyInfo.cs
+D:\CursoC#\ex013\ex013\obj\Debug\netcoreapp3.1\ex013.dll
+D:\CursoC#\ex013\ex013\obj\Debug\netcoreapp3.1\ex013.pdb
